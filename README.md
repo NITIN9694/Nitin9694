@@ -1,6 +1,6 @@
-<!-- # :globe_with_meridians:Socials
+ :globe_with_meridians:Socials
 [![Web Badge](http://img.shields.io/badge/-Resume-1ca0f1?style=social&logo=dropbox&logoColor=blue&link=https://drive.google.com/file/d/1f3rn5iwNIgeRPUctOtDDnkdnl8wmj8a1/view)](https://drive.google.com/file/d/1f3rn5iwNIgeRPUctOtDDnkdnl8wmj8a1/view)
- -->
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:prashantnigam490@gmail.com)](mailto:thenitikumarjha@gmail.com)
 
 
@@ -10,10 +10,9 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
-<!-- ## :face_with_monocle: About -->
-<!-- - :telescope: I’m currently working on Flutter SDK -->
-<!-- - :seedling: I’m currently learning New Technology -->
-<!-- - :speech_balloon: Ask me about Flutter or any tech related stuff -->
+# :face_with_monocle: About 
+:seedling: I’m currently learning New Technology
+:speech_balloon: Ask me about Flutter or any tech related stuff 
 
 <!--
 ---

@@ -10,7 +10,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
-:seedling: I’m currently learning New Technology\n
+:seedling: I’m currently learning New Technology
 :speech_balloon: Ask me about Flutter or any tech related stuff 
 
 <!--

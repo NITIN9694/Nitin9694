@@ -1,5 +1,7 @@
-# :globe_with_meridians:Socials
-[![Web Badge](http://img.shields.io/badge/-Resume-1ca0f1?style=social&logo=dropbox&logoColor=blue&link=https://drive.google.com/file/d/1f3rn5iwNIgeRPUctOtDDnkdnl8wmj8a1/view)](https://drive.google.com/file/d/1f3rn5iwNIgeRPUctOtDDnkdnl8wmj8a1/view) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:prashantnigam490@gmail.com)](mailto:thenitikumarjha@gmail.com)
+<!-- # :globe_with_meridians:Socials
+[![Web Badge](http://img.shields.io/badge/-Resume-1ca0f1?style=social&logo=dropbox&logoColor=blue&link=https://drive.google.com/file/d/1f3rn5iwNIgeRPUctOtDDnkdnl8wmj8a1/view)](https://drive.google.com/file/d/1f3rn5iwNIgeRPUctOtDDnkdnl8wmj8a1/view)
+ -->
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:prashantnigam490@gmail.com)](mailto:thenitikumarjha@gmail.com)
 
 
 # :computer:Tech Stack

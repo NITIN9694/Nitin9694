@@ -1,10 +1,9 @@
 # 💫 About Me:
-<!-- - 🔭 I’m currently working on Adjust SDK -->
-<!-- - 🌱 I’m currently learning Property based testing -->
-<!-- - 👯 I’m Robolectric and AWS Amplify Contributor -->
-<!-- - 🤔 I’m looking for help with Data Structure and Algorithm -->
-<!-- - 💬 Ask me about Android App Development or any tech related stuff -->
-<!-- - ⚡ Fun fact: I spent almost 12 hours listening lofi hip hop radio -->
+🔭 I’m currently working on Flutter Develop
+🌱 I’m currently Focusing Data Structure and Algorithm 
+💬 Ask me about App Development or any tech related stuff
+⚡ Fun fact:The first computer “bug” was an actual real-life bug
+
 
 
 

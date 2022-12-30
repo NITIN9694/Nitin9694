@@ -1,9 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter Develop
-🌱 I’m currently Focusing Data Structure and Algorithm 
-💬 Ask me about App Development or any tech related stuff
-⚡ Fun fact:The first computer “bug” was an actual real-life bug
-
+🔭 I’m currently working on Flutter Develop<br>🌱 I’m currently Focusing Data Structure and Algorithm <br>💬 Ask me about App Development or any tech related stuff<br>⚡ Fun fact:The first computer “bug” was an actual real-life bug
 
 
 
